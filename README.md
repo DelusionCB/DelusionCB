@@ -1,6 +1,6 @@
  # Hi, welcome to my profile <img src="https://komarev.com/ghpvc/?username=delusioncb&label=Profile%20views&color=fc23f5&style=flat" alt="delusioncb"/>
 
-## **I'm currently looking for work!**
+## **I'm currently working at BB!**
 
 ![DelusionCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DelusionCB&show_icons=true&theme=synthwave)
 
